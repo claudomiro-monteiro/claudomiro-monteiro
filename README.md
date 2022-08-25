@@ -1,14 +1,14 @@
-<img src="https://avatars.githubusercontent.com/u/40863800?v=4" align="center" />
+<img src="https://avatars.githubusercontent.com/u/40863800?v=4" align="left" height="200"/>
 
 ### Hi there 👋, I'm Claudomiro Monteiro
 
-- 🌱 I’m currently learning HTML, CSS, SASS, Styled-Components, Javascript, React, Node, SQL
+### 🌱 I’m currently learning HTML, CSS, SASS, Styled-Components, Javascript, React, Node, SQL
 
-- 📫 How to reach me: ...claudomiromonteiro@gmail.com
+### 📫 How to reach me: ...claudomiromonteiro@gmail.com
 
 <br><br>
 
-- Tech Stack 
+## 🛠 Tech Stack 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -19,7 +19,7 @@
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
-- OS
+## 💻 OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
