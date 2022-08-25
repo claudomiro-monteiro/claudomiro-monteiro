@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/40863800?v=4">
+<img src="https://avatars.githubusercontent.com/u/40863800?v=4" border-radius="50%">
 
 ### Hi there 👋, I'm Claudomiro Monteiro
 
