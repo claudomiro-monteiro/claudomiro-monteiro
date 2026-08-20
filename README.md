@@ -6,7 +6,7 @@
  
 <div align="center">
  <h3>Hi there 👋, I'm Claudomiro Monteiro</h3>
- <h3>🌱 Web Developer | ReactJs  | Typescript | Tailwindcss | Node.js </h3>
+ <h3>🌱 Web Developer | React  | Typescript | Tailwindcss | Node.js </h3>
   <h3> 🌱 I’m currently learning Node.js</h3>
  <h3>📫 How to reach me: <a href="mailto:claudomiromonteiro@gmail.com?subject=Email do Github">claudomiromonteiro@gmail.com<a/></h3>
 </div>
